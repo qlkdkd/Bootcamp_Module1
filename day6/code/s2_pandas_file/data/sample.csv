@@ -1,0 +1,4 @@
+time,camera,label,conf
+2026-11-20 09:00:01,cam1,person,0.91
+2026-11-20 09:00:03,cam2,car,0.77
+2026-11-20 09:00:04,cam2,person,0.42

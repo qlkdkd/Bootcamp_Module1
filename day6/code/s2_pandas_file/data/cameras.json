@@ -1,0 +1,12 @@
+[
+  {
+    "camera":"cam1",
+    "location":"입구",
+    "resolution":"640x480"
+  },
+  {
+    "camera":"cam2",
+    "location":"작업장",
+    "resolution":"1280x720"
+  }
+]
